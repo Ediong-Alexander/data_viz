@@ -1,5 +1,5 @@
-# (Dataset Exploration Title)
-## by (your name here)
+# Exploring Prosper loan Dataset
+## by Ediong Alexander
 
 
 ## Dataset
